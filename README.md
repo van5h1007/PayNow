@@ -27,7 +27,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/ANUKULUNJ/paynow.git](https://github.com/Phoenix681/paynow.git)
+    git clone [https://github.com/van5h1007/paynow.git]
 
     ```
 
